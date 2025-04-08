@@ -42,6 +42,6 @@ This repository contains the following files:
 - Arduino IDE
 - ESP32 Board Package (installable via Arduino IDE Board Manager)
 - Required Libraries:
-  - `ESP32 Board Library` (for microcontroller support)
+
   - `Blynk` (for IoT control)
   - `DHT` (for DHT sensor)
